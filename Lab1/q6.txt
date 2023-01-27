@@ -1,0 +1,10 @@
+clock
+bat
+cat
+huge
+bulldozer
+bulldog
+chain
+hill
+mount
+car
