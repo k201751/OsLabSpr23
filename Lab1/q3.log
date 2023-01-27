@@ -1,0 +1,14 @@
+Script started on 2023-01-27 10:43:33+05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="168" LINES="45"]
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ tree > q3.txt
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ cat q3.txt
+.
+├── q1.log
+├── q3.log
+├── q3.txt
+├── test
+└── typescript
+
+1 directory, 4 files
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ c[Kexit
+
+Script done on 2023-01-27 10:44:20+05:00 [COMMAND_EXIT_CODE="0"]

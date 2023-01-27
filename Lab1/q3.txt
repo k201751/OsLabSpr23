@@ -1,0 +1,8 @@
+.
+├── q1.log
+├── q3.log
+├── q3.txt
+├── test
+└── typescript
+
+1 directory, 4 files
