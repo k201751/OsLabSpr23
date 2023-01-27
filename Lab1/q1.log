@@ -1,0 +1,48 @@
+Script started on 2023-01-27 10:19:11+05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ man ps
+[?1049h[22;0;0t[?1h=PS(1)                            User Commands                           PS(1)[m
+[m
+[1mNAME[0m[m
+       ps - report a snapshot of the current processes.[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mps[0m [[4moptions[24m][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mps[0m displays information about a selection of the active processes.  If[m
+       you want a repetitive update of the selection and the displayed[m
+       information, use [4mtop[24m(1) instead.[m
+[m
+       This version of [1mps[0m accepts several kinds of options:[m
+[m
+       1   UNIX options, which may be grouped and must be preceded by a dash.[m
+       2   BSD options, which may be grouped and must not be used with a dash.[m
+       3   GNU long options, which are preceded by two dashes.[m
+[m
+       Options of different types may be freely mixed, but conflicts can[m
+       appear.  There are some synonymous options, which are functionally[m
+       identical, due to the many standards and [1mps[0m implementations that this[m
+       [1mps[0m is compatible with.[m
+[7m Manual page ps(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ ps
+    PID TTY          TIME CMD
+   7579 pts/3    00:00:00 bash
+   7630 pts/3    00:00:00 ps
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ cat file[K[K[K[K[K[K[K[Knao[Kno text.txt
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                        text.txt                                  [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[2d[39;49m(B[m[?12l[?25h[?25l[1;71H(B[0;7mModified(B[m[2d1[?12l[?25h[?25l2[?12l[?25h[?25l3[?12l[?25h[?25l[3d[?12l[?25h[?25l[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Get Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m To Files[22d(B[0;7mFile Name to Write: text.txt(B[m[22;29H[?12l[?25h[?25l    [1K (B[0;7m[ Writing... ](B[m[K[1;71H(B[0;7m        (B[m[22;32H(B[0;7m[ Wrote 2 lines ](B[m[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ man tet[Kxt,[K.txt
+No manual entry for text.txt
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ cat text.txt
+123
+
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ ls
+q1.log  [0m[01;34mtest[0m  text.txt  typescript
+]0;student@student-OptiPlex-7090: ~/Downloads[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Downloads[00m$ cd ..
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ mv ./Downloads ./
+mv: './Downloads' and './Downloads' are the same file
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ mv ./Downloads ./;/ ./[1P ./[1P .// ./t ./e ./x ./t ./. ./t ./x ./t ./[C ./[1P./
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ ls
+ [0m[01;34mDesktop[0m     file0      [01;34mMusic[0m      program1.c   [01;34msnap[0m        [01;34mVideos[0m
+ [01;34mDocuments[0m  'file 1'    [01;34mOSLAB[0m      program.c    [01;34mTemplates[0m
+ [01;34mDownloads[0m   file.txt   [01;34mPictures[0m   [01;34mPublic[0m       text.txt
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ exit
+
+Script done on 2023-01-27 10:24:01+05:00 [COMMAND_EXIT_CODE="0"]
