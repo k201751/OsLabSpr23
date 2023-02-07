@@ -5,7 +5,7 @@ dirname1="test0$i"
 for j in {1..2};
 do
 cat $dirname1/$j/test.txt >> textcopy.txt
-cd..
+cd ..
 done
 cd ..
 done
