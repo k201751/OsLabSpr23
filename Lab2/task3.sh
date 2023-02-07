@@ -4,8 +4,10 @@ do
 dirname1="test0$i"
 for j in {1..2};
 do
-cat dirname1/$j/test.txt >> textcopy.txt
+cat $dirname1/$j/test.txt >> textcopy.txt
+cd..
 done
+cd ..
 done
 
 
