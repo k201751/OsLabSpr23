@@ -15,5 +15,5 @@ The program uses the POSIX threads library (`pthread`) to create and manage thre
 2. Clone this repository:
 
    ```shell
-   git clone https://github.com/your-username/mergesort-multithread.git
+   git clone https://github.com/k201751/OsLabSpr23/tree/5428881aa45d434a259fe59215eea9489e7a10a3/lab8
 
